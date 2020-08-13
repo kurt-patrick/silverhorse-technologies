@@ -1,6 +1,4 @@
-# silverhorse-technologies
-
-Installation instructions:
+## Installation instructions:
 
 git clone https://github.com/kurt-patrick/silverhorse-technologies.git  
 Navigate to silverhorse-technologies\dotnet-backend\SilverHorseTech.Net.BackEnd  
